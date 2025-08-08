@@ -29,15 +29,16 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/>
+
 </p>
 
 ---
 
 ### 📌 Featured Projects
-- 🖥 **[Employee Dashboard](#)** — React + Tailwind + API integration. CRUD operations, pagination, and responsive UI.
-- 🛒 **[Shopping App](https://shopping-rqlg.vercel.app/)** — React + Redux Toolkit. Shopping cart, product listing, and responsive design.
-- 📂 **[Character Explorer](#)** — React + TypeScript. API search, filtering, and dynamic content.
+- 🖥 **[Employee Dashboard](https://nikmahla.github.io/Employee-Dashboard/) — Javascript + Tailwind + API integration. CRUD operations, pagination, and responsive UI.
+- 🛒 **[Shopping App](https://shopping-rqlg.vercel.app/)** — React + Zustand. Shopping cart, product listing, and responsive design.
+- 📂 **[Character Explorer](#)** — React + TypeScript. API search and dynamic content.
 
 *(More projects on my [GitHub Repositories](https://github.com/nikmahla?tab=repositories))*  
 
@@ -53,7 +54,8 @@
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikmahla" alt="GitHub Streak" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+
 </p>
 
 ---
