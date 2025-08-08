@@ -52,8 +52,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=nikmahla&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
+
 <p>
-<img src="https://streak-stats.demolab.com?user=nikmahla&theme=default" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=nikmahla&theme=default" alt="GitHub Streak" />
 </p>
 
 ---
