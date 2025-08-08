@@ -1,3 +1,5 @@
+<img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/4e5485e2-a387-49ce-aa86-14bd00b6c462" />
+
 <h1 align="center">Hi 👋, I'm Fatemeh Nikookar</h1>
 
 
