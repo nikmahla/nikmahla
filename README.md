@@ -1,26 +1,64 @@
 <h1 align="center">Hi 👋, I'm Fatemeh Nikookar</h1>
+<h3 align="center">A passionate Frontend Developer from Spain 🇪🇸</h3>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikmahla&label=Profile%20views&color=0e75b6&style=flat" alt="nikmahla" /> </p>
-<img src="https://camo.githubusercontent.com/463c32d1e70cad49eaca9910d19756cf28c2d733bdafab8bc54c3bb462791c64/68747470733a2f2f692e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45786433683063574e6c636e686c623264694d4749344f484533616e6c6c596d5532646a647761335a686357707359577472596e6b344e695a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f444937363876336d505a7a6a4d65785a31762f67697068792e676966" alt="Fatemeh Nikookar"  width="740" height="540"/>
-
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikmahla" alt="nikmahla" /></a> </p>
-
-- 💬 Ask me about **React, Javascript , BootStrap,Tailwind ,Css3, Html**
-
-- 📫 How to reach me **fatemehnikookar2020@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nikmahla&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikmahla&show_icons=true&locale=en&layout=compact" alt="nikmahla" /></p>
+### 🚀 About Me
+- 🎯 Focused on building **responsive, interactive web apps** with **React & modern JavaScript**.
+- 💬 Ask me about **React, JavaScript, Bootstrap, Tailwind, CSS3, HTML5**.
+- 📫 Reach me at **fatemehnikookar2020@gmail.com**.
+- 🌐 Check out my [Portfolio](#) *(coming soon)*.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikmahla&show_icons=true&locale=en" alt="nikmahla" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikmahla&" alt="nikmahla" /></p>
+### 🛠 Tech Stack
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/> 
+</p>
+
+---
+
+### 📌 Featured Projects
+- 🖥 **[Employee Dashboard](#)** — React + Tailwind + API integration. CRUD operations, pagination, and responsive UI.
+- 🛒 **[Shopping App](https://shopping-rqlg.vercel.app/)** — React + Redux Toolkit. Shopping cart, product listing, and responsive design.
+- 📂 **[Character Explorer](#)** — React + TypeScript. API search, filtering, and dynamic content.
+
+*(More projects on my [GitHub Repositories](https://github.com/nikmahla?tab=repositories))*  
+
+---
+
+### 📊 GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikmahla&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=nikmahla&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikmahla" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🤝 Connect with Me
+<p>
+  <a href="https://www.linkedin.com/in/fatemeh-nikookar-b00a28291/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Fatemeh%20Nikookar-blue?logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:fatemehnikookar2020@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail" alt="Email"/>
+  </a>
+</p>
