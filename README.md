@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fatemeh Nikookar</h1>
-<h3 align="center">Frontend Engineer — React · Next.js · TypeScript</h3>
+<h3 align="center">React / Next.js Developer building performant web applications with TypeScript, accessibility, and testing at scale.</h3>
 
 
 ---
