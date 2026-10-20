@@ -1,62 +1,30 @@
-<h1 align="center">Hi 👋, I'm Fatemeh Nikookar</h1>
-<h3 align="center">React / Next.js Developer building performant web applications with TypeScript, accessibility.</h3>
+# Fatemeh Nikookar
 
+**Frontend Engineer** · React · Next.js · TypeScript
+Based in Spain · Open to remote roles
 
----
+I build e-commerce storefronts and admin dashboards. 4+ years of professional experience, now looking for my next frontend role.
 
-### 🚀 About Me
-- 🎯 Focused on building **responsive, interactive web apps** with **React & modern JavaScript**.
-- 💬 Ask me about **React, JavaScript, TypeScript Bootstrap, Tailwind CSS, CSS3, HTML5**.
-- 📫 Reach me at **fatemehnikookar2020@gmail.com**.
-- 🌐 Check out my [Portfolio](https://portfolio-mu-sable-67.vercel.app/)
+[Portfolio](https://portfolio-mu-sable-67.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/fatemeh-nikookar/) · [Email](mailto:ft.nikookar@gmail.com)
 
----
+## Featured projects
 
-### 🛠 Tech Stack
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> 
-</p>
+**[Dashboard](https://github.com/nikmahla/Dashboard)**
+Admin dashboard built with Next.js and TypeScript. Charts, tables, protected admin routes and tests (Jest + React Testing Library).
 
----
+**[Annahal Shop](https://github.com/nikmahla/annahal-shop)**
+E-commerce demo built with Next.js (App Router), TypeScript, Zustand, Tailwind and MUI. Product search, cart and favorites. [Live demo](https://annahal-shop-bn2l.vercel.app/)
 
-### 📌 Featured Projects
-- 🖥 [Employee Dashboard](https://nikmahla.github.io/Employee-Dashboard/) — Javascript + Tailwind + API integration. CRUD operations, pagination, and responsive UI.
-- 🛒 **[Shopping App](https://shopping-rqlg.vercel.app/)** — React + Zustand. Shopping cart, product listing, and responsive design.
-- 📂 **[Character Explorer](#)** — React + TypeScript. API search and dynamic content.
+## Tech
 
-*(More projects on my [GitHub Repositories](https://github.com/nikmahla?tab=repositories))*  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
----
+React, Next.js, TypeScript, JavaScript, Zustand, React Query, Tailwind CSS, Material UI, React Testing Library, Jest/Vitest, Git
 
-### 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikmahla&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+## Currently
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=nikmahla&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-
-<p>
-  <img src="https://streak-stats.demolab.com?user=nikmahla&theme=default" alt="GitHub Streak" />
-</p>
-
----
-
-### 🤝 Connect with Me
-<p>
-  <a href="https://www.linkedin.com/in/fatemeh-nikookar-b00a28291/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Fatemeh%20Nikookar-blue?logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:fatemehnikookar2020@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail" alt="Email"/>
-  </a>
-</p>
+Learning Node.js and PostgreSQL by building a fullstack project.
