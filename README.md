@@ -18,6 +18,7 @@ An admin dashboard built with Next.js and TypeScript, featuring:
 - Unit tests with Jest and React Testing Library
 - Accessibility tests with jest-axe
 - Continuous integration with GitHub Actions
+[Live Demo](https://dashboard-17tl.vercel.app/login)
 
 ### [Shortlist – Job Search Agent](https://github.com/nikmahla/Job-search-agent)
 
