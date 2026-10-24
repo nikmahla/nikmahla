@@ -1,4 +1,4 @@
-cat > README.md <<'EOF'
+
 # Fatemeh Nikookar
 
 **Frontend Engineer · React · Next.js · TypeScript**
@@ -23,7 +23,7 @@ An admin dashboard built with Next.js and TypeScript, featuring:
 
 A Node.js tool that filters, deduplicates, and ranks job listings, then analyzes the best matches using a local LLM (Ollama / Qwen). It also records why each listing was kept or rejected.
 
-*Demo uses synthetic data.*
+[Live Demo](https://job-search-agent-ai.vercel.app/)
 
 ### [Annahal Shop](https://github.com/nikmahla/annahal-shop)
 
