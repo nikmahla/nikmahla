@@ -19,7 +19,7 @@ An admin dashboard built with Next.js and TypeScript, featuring:
 - Accessibility tests with jest-axe
 - Continuous integration with GitHub Actions
 
-### Shortlist – Job Search Agent
+### Shortlist – Job Search Agent(https://github.com/nikmahla/Job-search-agent)
 
 A Node.js tool that filters, deduplicates, and ranks job listings, then analyzes the best matches using a local LLM (Ollama / Qwen). It also records why each listing was kept or rejected.
 
